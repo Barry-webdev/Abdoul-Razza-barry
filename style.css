@@ -1,0 +1,30 @@
+body{
+  display: flex;
+  border: groove black;
+  margin-right: 400px;
+}
+img{
+  width: 40%;
+}
+header{
+  width: 30%;
+  background-color: aqua;
+}
+.Koto{
+  background-color: rgb(119, 119, 240);
+  color: white;
+}
+ h2{
+  color: darkblue;
+  font-size: 30px;
+  border-top: solid royalblue;
+ }
+ .Baba{
+  margin: 35px;
+  padding-top: 20px;
+  font-weight: bolder;
+ }
+ .Section{
+  padding: 30px;
+ }
+  
